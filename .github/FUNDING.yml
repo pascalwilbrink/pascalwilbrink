@@ -1,2 +1,3 @@
 github: pascalwilbrink
-custom: ["buymeacoffee.com/workm8", Buy me a Coffee]
+custom: 
+  - "https://buymeacoffee.com/workm8"
