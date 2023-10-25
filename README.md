@@ -92,10 +92,10 @@
 </h2>
 <picture align="center">
   <source
-    srcset="https://github-profile-trophy.vercel.app/?username=pascalwilbrink&column=8&margin-w=16&margin-h=16&theme=darkhub"
+    srcset="https://github-profile-trophy.vercel.app/?username=pascalwilbrink&column=6&margin-w=16&margin-h=16&theme=darkhub"
     media="(prefers-color-scheme: dark)"/>
   <source
-    srcset="https://github-profile-trophy.vercel.app/?username=pascalwilbrink&column=8&margin-w=16&margin-h=16&theme=flat"
+    srcset="https://github-profile-trophy.vercel.app/?username=pascalwilbrink&column=6&margin-w=16&margin-h=16&theme=flat"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
   <img
     src="https://github-profile-trophy.vercel.app/?username=pascalwilbrink&column=6&margin-w=16&margin-h=16&theme=flat" />
