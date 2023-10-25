@@ -15,8 +15,18 @@
 </p>
 
 <p align="center">
-  <a href="mailto:pascal.wilbrink@gmail.com?subject=Hi%20Pascal"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/pascalwilbrink"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:pascal.wilbrink@gmail.com?subject=Hi%20Pascal"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/pascalwilbrink">
+    <picture>
+      <source
+        srcset="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+      <source
+        srcset="https://img.shields.io/badge/Github-fefdfd?style=for-the-badge&logo=github&logoColor=181717"
+        media="(prefers-color-scheme: dark)" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </picture>
+  </a>
 </p>
 
 ---
@@ -29,32 +39,32 @@
   Frontend
 </h4>
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lit-324FFF?style=for-the-badge&logo=lit&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Lit-324FFF?style=for-the-badge&logo=lit&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 </p>
 <h4>
   Backend
 </h4>
 <p>
-  <img src="https://img.shields.io/badge/Java-437291?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-437291?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 </p>
 <h4>
   Tooling
 </h4>
 <p>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 <h4>
   Personal
 </h4>
 <p>
-  <img src="https://img.shields.io/badge/Home_Assistant-18BCF2?style=for-the-badge&logo=homeassistant&logoColor=white" />
-  <img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Home_Assistant-18BCF2?style=for-the-badge&logo=homeassistant&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </p>
 
@@ -88,5 +98,5 @@
     srcset="https://github-profile-trophy.vercel.app/?username=pascalwilbrink&column=8&margin-w=16&margin-h=16&theme=flat"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
   <img
-    src="https://github-profile-trophy.vercel.app/?username=pascalwilbrink&column=8&margin-w=16&margin-h=16&theme=flat" />
+    src="https://github-profile-trophy.vercel.app/?username=pascalwilbrink&column=6&margin-w=16&margin-h=16&theme=flat" />
 </picture>
