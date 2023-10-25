@@ -4,13 +4,13 @@
 <p align="center">
   <picture>
     <source
-      srcset="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=18&duration=3660&pause=1000&color=F4F4F4&repeat=true&lines=I'm+a+Fullstack+Developer&height=46&vCenter=true&center=true"
+      srcset="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=18&duration=3660&pause=1000&color=F4F4F4&repeat=true&lines=I'm+a+Fullstack+Software+Developer&height=46&vCenter=true&center=true"
       media="(prefers-color-scheme: dark)"/>
     <source
-      srcset="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=18&duration=3660&pause=1000&color=323232&repeat=true&lines=I'm+a+Fullstack+Developer&height=46&vCenter=true&center=true"
+      srcset="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=18&duration=3660&pause=1000&color=323232&repeat=true&lines=I'm+a+Fullstack+Software+Developer&height=46&vCenter=true&center=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=18&duration=3660&pause=1000&color=323232&repeat=true&lines=I'm+a+Fullstack+Developer&height=16&vCenter=true&center=true"/>
+      src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=18&duration=3660&pause=1000&color=323232&repeat=true&lines=I'm+a+Fullstack+Software+Developer&height=16&vCenter=true&center=true"/>
   </picture>
 </p>
 
