@@ -97,6 +97,9 @@
 </h2>
 
 <!-- feed start -->
+- Oct 25 - [My First Post](https://pascalwilbrink.github.io/posts/my-first-post/)
+- Oct 23 - [My Second Post](https://pascalwilbrink.github.io/posts/my-second-post/)
+- Jan 01 - [Search](https://pascalwilbrink.github.io/search/index.json)
 <!-- feed end -->
 
 ---
