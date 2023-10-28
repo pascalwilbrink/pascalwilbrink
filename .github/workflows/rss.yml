@@ -14,3 +14,4 @@ jobs:
         with:
           feed-url: https://pascalwilbrink.github.io/index.xml
           readme-section: feed
+          path: profile/readme.md
