@@ -96,9 +96,8 @@
     ✏️ Latest blog posts
 </h2>
 <ul>
-    <!--START_SECTION:feed-->
-    
-    <!--END_SECTION:feed-->
+    <!-- feed start -->
+    <!-- feed end -->
 </ul>
 
 ---
