@@ -90,6 +90,8 @@
   </li>
 </ul>
 
+---
+
 <h2>
     ✏️ Latest blog posts
 </h2>
@@ -97,6 +99,7 @@
     <!--START_SECTION:feed-->
     <!--END_SECTION:feed-->
 </ul>
+
 ---
 
 <h2>
