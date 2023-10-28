@@ -115,3 +115,9 @@
   <img
     src="https://github-profile-trophy.vercel.app/?username=pascalwilbrink&column=6&margin-w=16&margin-h=16&theme=flat" />
 </picture>
+
+<!-- feed start -->
+- Oct 25 - [My First Post](https://pascalwilbrink.github.io/posts/my-first-post/)
+- Oct 23 - [My Second Post](https://pascalwilbrink.github.io/posts/my-second-post/)
+- Jan 01 - [Search](https://pascalwilbrink.github.io/search/index.json)
+<!-- feed end -->
