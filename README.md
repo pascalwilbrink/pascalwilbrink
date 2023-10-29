@@ -47,7 +47,10 @@
   Frontend
 </h4>
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;
+  <a href="https://github.com/pascalwilbrink?tab=repositories&language=typescript" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Lit-324FFF?style=for-the-badge&logo=lit&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 </p>
@@ -55,7 +58,10 @@
   Backend
 </h4>
 <p>
-  <img src="https://img.shields.io/badge/Java-437291?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp;&nbsp;
+  <a href="https://github.com/pascalwilbrink?tab=repositories&language=java">
+      <img src="https://img.shields.io/badge/Java-437291?style=for-the-badge&logo=openjdk&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 </p>
