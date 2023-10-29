@@ -28,7 +28,7 @@
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
     </picture>
   </a>
-  <a href="https.npmjs.org/~pascalwilbrink">
+  <a href="https://npmjs.org/~pascalwilbrink">
     <img src="https://img.shields.io/badge/Npm-cc3534?style=for-the-badge&logo=npm&logoColor=white" />
   </a>
 </p>
