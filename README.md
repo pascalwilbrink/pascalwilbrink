@@ -109,7 +109,6 @@
 - Oct 25 - [Custom Webcomponents 101](https://pascalwilbrink.github.io/presentations/webcomponents-101/)
 - Oct 25 - [Making the most out of GitHub](https://pascalwilbrink.github.io/posts/making-the-most-out-of-github/)
 - Oct 25 - [My Project Setup](https://pascalwilbrink.github.io/posts/my-coding-setup/)
-- Jan 01 - [Search](https://pascalwilbrink.github.io/search/index.json)
 <!-- feed end -->
 
 ---
