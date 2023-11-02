@@ -106,8 +106,9 @@
 </h2>
 
 <!-- feed start -->
-- Oct 25 - [My First Post](https://pascalwilbrink.github.io/posts/my-first-post/)
-- Oct 23 - [My Second Post](https://pascalwilbrink.github.io/posts/my-second-post/)
+- Oct 25 - [Custom Webcomponents 101](https://pascalwilbrink.github.io/presentations/webcomponents-101/)
+- Oct 25 - [Making the most out of GitHub](https://pascalwilbrink.github.io/posts/making-the-most-out-of-github/)
+- Oct 25 - [My Project Setup](https://pascalwilbrink.github.io/posts/my-coding-setup/)
 - Jan 01 - [Search](https://pascalwilbrink.github.io/search/index.json)
 <!-- feed end -->
 
